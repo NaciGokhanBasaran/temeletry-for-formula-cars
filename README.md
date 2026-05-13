@@ -1,4 +1,4 @@
-# 🏎️ BAUFormula  GUI
+# 🏎️ Formula  GUI
 
 Bahçeşehir Üniversitesi Formula Takımı için geliştirilen, yarış aracı verilerini gerçek zamanlı izleyip analiz edebileceğiniz modern bir **telemetri arayüzü**.
 
